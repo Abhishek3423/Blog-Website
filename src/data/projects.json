@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Blog Website",
+    "imageSrc": "projects/blog-website.png",
+    "description": "This is a project made for create blog website using react+vite.",
+    "skills": ["React", "Express", "Node", "vite"],
+    "demo": "https://www.abhishek.kamati.com.np",
+    "source": "https://github.com/Abhishek3423/Mern-Blog-website"
+  },
+  {
+    "title": "Real Estate App",
+    "imageSrc": "projects/real-state.png",
+    "description": "This is a project made for create e-commerce website using react+express.",
+    "skills": ["Next.js", "Express", "Node", "Supabase"],
+    "demo": "https://github.com/Abhishek3423/real-estate-app.git",
+    "source": "https://github.com/Abhishek3423/real-estate-app.git"
+    },
+    {
+    "title": "E-commerce Website",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "This is a project made for create e-commerce website using react+express and mongodb.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "",
+    "source": "https://github.com/Abhishek3423/react-mongo-shopy"
+    }
+]
