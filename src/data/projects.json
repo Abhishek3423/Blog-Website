@@ -12,7 +12,7 @@
     "imageSrc": "projects/real-state.png",
     "description": "This is a project made for create e-commerce website using react+express.",
     "skills": ["Next.js", "Express", "Node", "Supabase"],
-    "demo": "https://github.com/Abhishek3423/real-estate-app.git",
+    "demo": "https://real-estate-app-rust-alpha.vercel.app/",
     "source": "https://github.com/Abhishek3423/real-estate-app.git"
     },
     {
@@ -20,7 +20,7 @@
     "imageSrc": "projects/ecommerce.png",
     "description": "This is a project made for create e-commerce website using react+express and mongodb.",
     "skills": ["React", "Express", "Node", "MongoDB"],
-    "demo": "",
+    "demo": "https://react-mongo-shopy.vercel.app/",
     "source": "https://github.com/Abhishek3423/react-mongo-shopy"
     }
 ]
