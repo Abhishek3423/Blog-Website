@@ -1,11 +1,11 @@
 [
   {
     "role": "Full Stack Developer",
-    "organisation": "CG communication",
-    "startDate": "Aug, 2022",
+    "organisation": "",
+    "startDate": "Jan, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on client mangement system", "Monitroing tools"],
-    "imageSrc": "history/cg.png"
+    "experiences": ["Worked on real-estate-web-app", "e-commerce"],
+    "imageSrc": "contact/githubIcon.png"
   }
   
 ]
